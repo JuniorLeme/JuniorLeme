@@ -1,24 +1,26 @@
-<H1> Hello, I'm Junior.</H1>
+<h1 align='center'> Hello, I'm Junior.
+</h1>
+
+<p align='center'> A Delphi developer
+</p>
+
+<p align='center'>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+</p>
 
 
-A Delphi developer
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-<img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
+## Education
 
+- 📖 **Delphi Development**\
+📆 2021 - 2023\
+📍 **University Estácio** - Ribeirão Preto, Brazil
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&theme=codeSTACKr)
+## Experience
 
 <!--
-**JuniorLeme/JuniorLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
 -->
