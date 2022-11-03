@@ -1,8 +1,8 @@
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&theme=codeSTACKr)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&theme=codeSTACKr)(https://github.com/JuniorLeme)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorLeme&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuniorLeme&layout=compact)(https://github.com/JuniorLeme)
 
 <!--
 **JuniorLeme/JuniorLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
