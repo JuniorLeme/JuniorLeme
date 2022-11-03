@@ -13,6 +13,9 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
+<details>
+  <summary>📃 Formation</summary>
+
 ## Education
 
 - 📖 **Delphi Development**\
@@ -21,6 +24,8 @@
 
 ## Experience
 
+</details>
+  
 <!--
 <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
 -->
