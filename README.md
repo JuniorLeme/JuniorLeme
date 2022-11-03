@@ -1,15 +1,15 @@
-<h1 align='Center'> Hello, I'm Junior. </h1>
+# ~ Hello!
+
+My name is Junior Leme. I am a developer living near Ribeirão Preto, Brazil.
+
+## 🛠  Currently working with:
+
+<a name="learning-now"></a>
+
+[<img src="https://img.shields.io/badge/Delphi-EE1F35?logo=delphi&logoColor=white&style=plastic" alt="Delphi logo" title="Delphi" height="25" />][tech_tools_anchor]
 
 
-
-🛠   Currently working with:
-
-
-<img src="https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white&style=plastic" alt="Delphi logo" title="Delphi" height="25" />
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&count_private=true&theme=dark" width="350"></a>
-</p>
+<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&count_private=true&theme=dark" width="350"></a>
 
 <details>
   <summary>📃 Formation</summary>
@@ -22,7 +22,10 @@
 ## Experience
 
 </details>
+
+[tech_tools_anchor]: #hello--
+[learning_now_anchor]: #learning-now
   
 <!--
-<img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white" />
+
 -->
