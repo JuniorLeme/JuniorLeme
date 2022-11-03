@@ -2,12 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&theme=codeSTACKr)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuniorLeme&repo=github-readme-stats)
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JuniorLeme&repo=github-readme-stats)]
-
-
 
 <!--
 **JuniorLeme/JuniorLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
