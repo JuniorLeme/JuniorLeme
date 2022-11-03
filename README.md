@@ -1,13 +1,11 @@
-<h1 align='center'> Hello, I'm Junior.
-</h1>
+<h1 align='Center'> Hello, I'm Junior. </h1>
 
-<p align='center'> A Delphi developer
-</p>
 
-<p align='center'>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-</p>
 
+🛠   Currently working with:
+
+
+<img src="https://img.shields.io/badge/-Delphi-EE1F35?logo=delphi&logoColor=white&style=plastic" alt="Delphi logo" title="Delphi" height="25" />
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&count_private=true&theme=dark" width="350"></a>
@@ -18,7 +16,6 @@
 
 ## Education
 
-- 📖 **Delphi Development**\
 📆 2021 - 2023\
 📍 **University Estácio** - Ribeirão Preto, Brazil
 
