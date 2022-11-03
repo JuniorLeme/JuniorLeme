@@ -1,4 +1,12 @@
-### Hi there 👋
+class Person {
+    constructor() {
+      this.name = "Junior Leme";
+      this.traits = ["DEV"];
+      this.age = new Date().getFullYear() - 2001;
+    }
+}
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&theme=codeSTACKr)
 
 <!--
 **JuniorLeme/JuniorLeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuniorLeme&show_icons=true&theme=codeSTACKr)
